@@ -71,7 +71,7 @@ def init_solution(num):
 
 def run():
     generations = 200
-    popnum = 10
+    popnum = 100
     eta = 0.5
 
     poplength = len(bound_min)
